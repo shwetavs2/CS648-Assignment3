@@ -5,11 +5,11 @@ body {
     background-color: #EDEDED;
 }
 h3 {
-    color: blue;
+    color:peru;
     border-bottom: 1px solid #929CA4
 }
 
-#intro::first-letter {
+#start:first-letter {
     font-size: 30px;
 }
 .solution::first-line {
